@@ -2,6 +2,10 @@
 
 Abigail Antrobus
 
+Drawing:
+
+I was inspired by that one art piece where the circle gets activated, to put in simply, every time you click. You know, the example on the Notion page. I wanted to show a deep moment where me and my ex were offered to share a cigarette with a homeless man; he told us his life story, and said that me and him should stay together, protect our love blah blah blah. I tried to make my ex, the brown haired one flicker to show that hes leaving from the feelings I have towards that memory, but it made his hair flicker, not to mention his hair's curly. At that point I just gave up as I was too tired tbh. 
+
 Movement and Multiples:
 Movement:
 I realised halfway through that I combined them, as I was inspired by the randomly appearing texts, and the notion for Movement and the mouse draw on the Multiples notion page. I'm also tired. My aim for these two codes is to show ignorance of consumers, in a way. I recently went to the war museum with my sister in London, and was of course very affected by the Holocaust exhibition, specifically a passage that was written by one of the victims:
