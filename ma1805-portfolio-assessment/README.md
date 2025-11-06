@@ -23,3 +23,9 @@ The red patterns represent fire, and the text that refer to different social med
 
 Multiples:
 I used the same technique with the circle thing, that coincidentally looks like smoke, but instead it erases images of the Holocaust and the genocide in Gaza to show how the media and audience simply ignore and erase the realities of victims. I made it so at the end, there was the passage by Edith to show that no one's safe; even if you ignore others' suffering, it'll come back to you eventually, you could be the one writing to the world so that you're seen. The war museum really affected me.
+
+Media:
+Honestly, I was too tired and just wanted to have fun trying to make a little diva cat. I like it considering it's simple and quick.
+
+Conclusion:
+This project was really fun, and a good introduction to coding. I'm excited to see what else I can do, as so far I've already learned so much from a range of different sources, and I already feel so much more confident when it comes to coding!

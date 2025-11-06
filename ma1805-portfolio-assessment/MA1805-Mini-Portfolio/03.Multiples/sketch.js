@@ -6,6 +6,8 @@ let coveredPixels = 0;
 let totalPixels;
 let showText = false;
 
+// blackout is a variable to store a secondary graphics layer
+
 let urls = [
 "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bundesarchiv_Bild_101I-134-0771A-39%2C_Polen%2C_Ghetto_Warschau%2C_Kind_in_Lumpen.jpg/500px-Bundesarchiv_Bild_101I-134-0771A-39%2C_Polen%2C_Ghetto_Warschau%2C_Kind_in_Lumpen.jpg",
 "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Injured_Palestinian_by_an_Israeli_airstrike_of_a_house_in_Deir_el-Balah%2C_Gaza_Strip.jpg/330px-Injured_Palestinian_by_an_Israeli_airstrike_of_a_house_in_Deir_el-Balah%2C_Gaza_Strip.jpg",
@@ -25,6 +27,8 @@ function preload() {
   }
 }
 
+// preload loads assets before the sketch runs to make sure that everythings ready
+
 function setup() {
 createCanvas(800,800);
 blackout = createGraphics(width, height);
@@ -34,8 +38,14 @@ totalPixels = width * height;
 frameRate (5);
 }
 
+// blackout also means to be able to draw separetly so i can layer visual effects if i wanted
+// totalPixels tells how much precentage there is for an image, good for when code needs to know when to show text with black screen
+// frame rate controls how fast the images are shown
+
 function draw() {
   if (!showText) {
+
+    // this says that if no text is shown, then show images
 
     if (imgs.length > 0) {
       image(imgs[imgIndex], 0, 0, width, height);
@@ -48,6 +58,8 @@ function draw() {
     }
 
   } else {
+
+// this says if images aren't shown then show text
 
     background (0);
     fill (255);
